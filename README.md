@@ -1,2 +1,2 @@
 # minercaft-pigmen-client-base
-old minecraft client base (with no events)
+minecraft client base (with no events)
